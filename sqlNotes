@@ -1,0 +1,46 @@
+📌 MySQL Terminology Cheat Sheet
+Tables
+- Table: A structured collection of data, organized into rows and columns.
+- Column (Field): A single piece of data, like a name or age, stored in a table.
+- Row (Record): A complete set of related data points within a table.
+- Primary Key: A unique identifier for each row in a table (e.g., id).
+- Foreign Key: A column that links one table to another to maintain relationships.
+- Index: A performance booster that speeds up data retrieval operations.
+Relational Databases (SQL-based)
+- Definition: Structured databases that use tables with defined relationships.
+- Characteristics:
+- Data is stored in tables with rows and columns.
+- Relationships are established via primary and foreign keys.
+- Uses Structured Query Language (SQL) for operations.
+- Examples: MySQL, PostgreSQL, SQL Server, Oracle Database.
+Non-Relational Databases (NoSQL-based)
+- Definition: Flexible databases that store unstructured or semi-structured data.
+- Types:
+- Document-based (e.g., MongoDB) → Stores JSON-like documents.
+- Key-Value Stores (e.g., Redis) → Uses unique keys to retrieve values.
+- Column-based (e.g., Apache Cassandra) → Optimized for large-scale data.
+- Graph-based (e.g., Neo4j) → Manages complex relationships.
+- Characteristics:
+- No fixed schema (adaptable structure).
+- Scales easily across distributed systems.
+- Best suited for big data, caching, and real-time analytics.
+
+Data is raw information—facts, figures, statistics, or any form of content that can be collected, stored, and analyzed. It can exist in various formats such as text, numbers, images, audio, or video.
+
+Types of Data
+
+- Structured Data: Organized and easily searchable (e.g., data in relational databases like MySQL).
+- Unstructured Data: Free-form and harder to analyze (e.g., emails, social media posts, videos).
+- Semi-Structured Data: A mix of both, often containing tags or labels (e.g., JSON or XML files).
+- Big Data: Large, complex datasets that require specialized processing (e.g., social media trends, IoT sensor readings).
+Uses of Data
+- Business decisions (analytics and insights)
+- Scientific research
+- Artificial intelligence and machine learning
+- Personal records and storage
+
+mysql dbms database management system --server 
+
+sql is language --structered query language 
+
+Oracle is another relational database management system
